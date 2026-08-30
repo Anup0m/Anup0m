@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="68" viewBox="0 0 480 68" fill="none">
-  <rect width="479" height="67" x="0.5" y="0.5" rx="6" fill="#0d1117" stroke="#30363d"/>
-  <text x="20" y="28" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#39d353">
-    🏆 Achievements
-  </text>
-  <text x="20" y="48" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="13" font-style="italic" fill="#8b949e">
-    Not found yet — building in progress 🚀
-  </text>
-</svg>

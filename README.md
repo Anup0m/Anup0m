@@ -91,13 +91,6 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
   <img src="assets/card-stats-dark.svg" width="520" alt="GitHub statistics">
 </picture>
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-achievements-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-achievements-light.svg">
-  <img src="assets/card-achievements-dark.svg" width="480" alt="Achievements: Not found yet">
-</picture>
 
 
 </div>
