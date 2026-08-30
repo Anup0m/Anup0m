@@ -31,7 +31,7 @@ $ cat about.txt
 
 Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with hands-on experience building end-to-end AI systems — from RAG pipelines and semantic search to computer vision and full-stack web platforms.
 
-- 🚀 Currently building **[KANAD S.H.I.E.L.D.](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds)** & **[LinkedIn Auto-Connect Pro](https://github.com/Anup0m/linkedinautoconnecter1.0)**
+- 🚀 Currently building **[KANAD S.H.I.E.L.D.](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds)** & **[GOATS Investment Platform](https://github.com/Anup0m/GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform)**
 - 🎓 Education: **Karnavati University** — B.Tech in Computer Science Engineering (2024 – 2028)
 - 📍 Location: **Delhi, India**
 - ⚡ Focus: **Applied AI/LLM Engineering, Computer Vision, & Scalable Web Applications**
@@ -79,7 +79,7 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -97,6 +97,26 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
   </a>
 </td>
 <td width="50%">
+  <a href="https://github.com/Anup0m/GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform-light.svg">
+      <img src="assets/card-GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform-dark.svg" width="420" alt="GOATS Investment Platform">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Anup0m/Brain_tumor_detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Brain_tumor_detection-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Brain_tumor_detection-light.svg">
+      <img src="assets/card-Brain_tumor_detection-dark.svg" width="420" alt="Brain Tumor Detection">
+    </picture>
+  </a>
+</td>
+<td width="50%">
   <a href="https://github.com/Anup0m/linkedinautoconnecter1.0">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-linkedinautoconnecter1.0-dark.svg">
@@ -107,21 +127,12 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <a href="https://github.com/Anup0m/dental-carries-identification-deep-learning-model">
+<td width="100%" colspan="2" align="center">
+  <a href="https://github.com/Anup0m/Antibody-Escape-Predictor">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dental-carries-identification-deep-learning-model-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dental-carries-identification-deep-learning-model-light.svg">
-      <img src="assets/card-dental-carries-identification-deep-learning-model-dark.svg" width="420" alt="Dental Caries Detection">
-    </picture>
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/Anup0m/-Farzi_Time-Series_Clustering">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card--Farzi_Time-Series_Clustering-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card--Farzi_Time-Series_Clustering-light.svg">
-      <img src="assets/card--Farzi_Time-Series_Clustering-dark.svg" width="420" alt="Time Series Clustering">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Antibody-Escape-Predictor-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Antibody-Escape-Predictor-light.svg">
+      <img src="assets/card-Antibody-Escape-Predictor-dark.svg" width="420" alt="Antibody Escape Predictor">
     </picture>
   </a>
 </td>
@@ -130,12 +141,13 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 <sub>
 
-| project | live demo / repository | stack |
+| project | repository / demo | stack |
 |---|---|---|
-| **[KANAD S.H.I.E.L.D.](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds)** | [Live Demo](https://kanad-s-h-i-e-l-d-lawsearcher-datam-chi.vercel.app/) | `Python` `FastAPI` `React` `Supabase` `Gemini` `pgvector` |
-| **[LinkedIn Auto-Connect Pro](https://github.com/Anup0m/linkedinautoconnecter1.0)** | [GitHub Repo](https://github.com/Anup0m/linkedinautoconnecter1.0) | `JavaScript` `Chrome Extension Manifest V3` `ES6+` |
-| **[Dental Caries Detection](https://github.com/Anup0m/dental-carries-identification-deep-learning-model)** | [GitHub Repo](https://github.com/Anup0m/dental-carries-identification-deep-learning-model) | `Python` `PyTorch` `Deep Learning` `OpenCV` |
-| **[Time-Series Clustering](https://github.com/Anup0m/-Farzi_Time-Series_Clustering)** | [GitHub Repo](https://github.com/Anup0m/-Farzi_Time-Series_Clustering) | `Python` `Scikit-learn` `NumPy` `Jupyter` |
+| **[KANAD S.H.I.E.L.D.](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds)** | [Live Demo](https://kanad-s-h-i-e-l-d-lawsearcher-datam-chi.vercel.app/) $\cdot$ [GitHub](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds) | `Python` `FastAPI` `React` `Supabase` `Gemini` `pgvector` |
+| **[GOATS Platform](https://github.com/Anup0m/GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform)** | [GitHub Repo](https://github.com/Anup0m/GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform) | `Next.js 14` `TypeScript` `Prisma` `SQLite` `Recharts` |
+| **[Brain Tumor Detection](https://github.com/Anup0m/Brain_tumor_detection)** | [GitHub Repo](https://github.com/Anup0m/Brain_tumor_detection) | `Python` `YOLOv8` `PyTorch` `ResNet-18` `FastAPI` `OpenCV` |
+| **[LinkedIn Auto-Connect Pro](https://github.com/Anup0m/linkedinautoconnecter1.0)** | [GitHub Repo](https://github.com/Anup0m/linkedinautoconnecter1.0) | `JavaScript (ES6+)` `Chrome Extension Manifest V3` |
+| **[Antibody Escape Predictor](https://github.com/Anup0m/Antibody-Escape-Predictor)** | [GitHub Repo](https://github.com/Anup0m/Antibody-Escape-Predictor) | `Python` `XGBoost` `scikit-learn` `Flask` `Pandas` |
 
 </sub>
 
@@ -145,6 +157,6 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01101114 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>

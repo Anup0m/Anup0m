@@ -1,21 +1,25 @@
 {
-  "_comment": "Featured repos for Anupam Pandey",
+  "_comment": "Featured resume projects for Anupam Pandey",
   "projects": [
     {
       "repo": "KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds",
-      "description": "AI Legal Intelligence Platform built for Cyber Crime Branch hackathon with Supabase pgvector semantic search & Gemini RAG."
+      "description": "AI Legal Intelligence Platform built for Ahmedabad Police Cyber Crime Branch hackathon with Supabase pgvector semantic search & Gemini RAG."
+    },
+    {
+      "repo": "GOATS-InvestShield-AI-Powered-Hedged-Investment-Platform",
+      "description": "Smart Investment Strategy Platform built with Next.js 14, TypeScript, Prisma, and Recharts featuring dual User & Advisor portals."
+    },
+    {
+      "repo": "Brain_tumor_detection",
+      "description": "Two-stage deep learning pipeline using YOLOv8 for MRI tumor detection and ResNet-18 for classification served via FastAPI."
     },
     {
       "repo": "linkedinautoconnecter1.0",
       "description": "Client-side Chrome Extension using asynchronous JavaScript & Manifest V3 to automate targeted connection requests safely."
     },
     {
-      "repo": "dental-carries-identification-deep-learning-model",
-      "description": "Deep learning computer vision model for identifying dental caries from diagnostic imagery using PyTorch & CNNs."
-    },
-    {
-      "repo": "-Farzi_Time-Series_Clustering",
-      "description": "Unsupervised time series clustering and anomaly detection pipeline using Python & machine learning algorithms."
+      "repo": "Antibody-Escape-Predictor",
+      "description": "ML pipeline on 12,800+ antibody records to predict COVID-19 variant escape behavior with Flask web application."
     }
   ]
 }
