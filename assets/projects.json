@@ -3,19 +3,19 @@
   "projects": [
     {
       "repo": "KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds",
-      "description": "AI Legal Intelligence Platform built for Ahmedabad Police Cyber Crime Branch hackathon with Supabase pgvector semantic search & Gemini RAG."
+      "description": "AI Legal Intelligence Platform built for Cyber Crime Branch hackathon with Supabase pgvector semantic search & Gemini RAG."
     },
     {
       "repo": "linkedinautoconnecter1.0",
-      "description": "Client-side Chrome Extension using asynchronous JavaScript & Manifest V3 to automate targeted connection requests safely with local rate limiting."
+      "description": "Client-side Chrome Extension using asynchronous JavaScript & Manifest V3 to automate targeted connection requests safely."
     },
     {
-      "repo": "GOATS",
-      "description": "Smart Investment Strategy Platform built with Next.js 14, TypeScript, Prisma, and Recharts featuring dual User & Advisor portals."
+      "repo": "dental-carries-identification-deep-learning-model",
+      "description": "Deep learning computer vision model for identifying dental caries from diagnostic imagery using PyTorch & CNNs."
     },
     {
-      "repo": "Brain-Tumor-Detection",
-      "description": "Two-stage deep learning pipeline using YOLOv8 for MRI tumor detection and ResNet-18 for classification served via FastAPI."
+      "repo": "-Farzi_Time-Series_Clustering",
+      "description": "Unsupervised time series clustering and anomaly detection pipeline using Python & machine learning algorithms."
     }
   ]
 }

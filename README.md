@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <!-- PORTRAIT -->
 <img src="assets/portrait.svg?v=3" width="480" alt="Anupam Pandey, rendered as a dot matrix">
@@ -56,7 +56,7 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
+<!-- Self-rated radar - edit assets/skills.json, the script redraws it -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
@@ -66,7 +66,7 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<!-- Live radar built from real language byte counts across your repos -->
+<!-- Live radar built from real language byte counts across Anup0m repos -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
@@ -83,41 +83,13 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 <div align="center">
 
-## `~/` contribution calendar
-
-<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
-<br><br>
-
-<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Anup0m/Anup0m/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anup0m/Anup0m/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/Anup0m/Anup0m/output/snake.svg" width="100%" alt="snake eating the contribution graph">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 ## `~/` the numbers
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+  <img src="assets/card-stats-dark.svg" width="520" alt="GitHub statistics">
 </picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
 
@@ -127,15 +99,57 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 ## `~/` selected work
 
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds-light.svg">
+      <img src="assets/card-KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds-dark.svg" width="420" alt="KANAD S.H.I.E.L.D.">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Anup0m/linkedinautoconnecter1.0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-linkedinautoconnecter1.0-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-linkedinautoconnecter1.0-light.svg">
+      <img src="assets/card-linkedinautoconnecter1.0-dark.svg" width="420" alt="LinkedIn Auto-Connect Pro">
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Anup0m/dental-carries-identification-deep-learning-model">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dental-carries-identification-deep-learning-model-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-dental-carries-identification-deep-learning-model-light.svg">
+      <img src="assets/card-dental-carries-identification-deep-learning-model-dark.svg" width="420" alt="Dental Caries Detection">
+    </picture>
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/Anup0m/-Farzi_Time-Series_Clustering">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card--Farzi_Time-Series_Clustering-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card--Farzi_Time-Series_Clustering-light.svg">
+      <img src="assets/card--Farzi_Time-Series_Clustering-dark.svg" width="420" alt="Time Series Clustering">
+    </picture>
+  </a>
+</td>
+</tr>
+</table>
+
 <sub>
 
 | project | live demo / repository | stack |
 |---|---|---|
 | **[KANAD S.H.I.E.L.D.](https://github.com/Anup0m/KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds)** | [Live Demo](https://kanad-s-h-i-e-l-d-lawsearcher-datam-chi.vercel.app/) | `Python` `FastAPI` `React` `Supabase` `Gemini` `pgvector` |
 | **[LinkedIn Auto-Connect Pro](https://github.com/Anup0m/linkedinautoconnecter1.0)** | [GitHub Repo](https://github.com/Anup0m/linkedinautoconnecter1.0) | `JavaScript` `Chrome Extension Manifest V3` `ES6+` |
-| **[GOATS Investment Platform](#)** | [SEBI Research Analyst Baskets](#) | `Next.js 14` `TypeScript` `Prisma` `SQLite` `Recharts` |
-| **[Brain Tumor Detection](#)** | [GPU Fast Inference API](#) | `Python` `YOLOv8` `PyTorch` `ResNet-18` `FastAPI` `OpenCV` |
-| **[Antibody Escape Predictor](#)** | [COVID Variant ML Predictor](#) | `Python` `XGBoost` `scikit-learn` `Flask` `Pandas` |
+| **[Dental Caries Detection](https://github.com/Anup0m/dental-carries-identification-deep-learning-model)** | [GitHub Repo](https://github.com/Anup0m/dental-carries-identification-deep-learning-model) | `Python` `PyTorch` `Deep Learning` `OpenCV` |
+| **[Time-Series Clustering](https://github.com/Anup0m/-Farzi_Time-Series_Clustering)** | [GitHub Repo](https://github.com/Anup0m/-Farzi_Time-Series_Clustering) | `Python` `Scikit-learn` `NumPy` `Jupyter` |
 
 </sub>
 
@@ -145,6 +159,6 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 <div align="center">
 
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101101 01101001 01101110 01100111`</sub>
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01101114 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
