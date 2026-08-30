@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- PORTRAIT -->
-<img src="assets/portrait.svg" width="300" alt="Anupam Pandey, rendered as a dot matrix">
+<img src="assets/portrait.svg?v=2" width="300" alt="Anupam Pandey, rendered as a dot matrix">
 
 <br>
 
