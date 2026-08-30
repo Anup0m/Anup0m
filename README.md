@@ -157,6 +157,10 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 <div align="center">
 
+<sub>Design architecture & artwork engine inspired by <a href="https://github.com/gargibhardwaj24">Gargi Bhardwaj</a></sub>
+
+<br><br>
+
 <sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
