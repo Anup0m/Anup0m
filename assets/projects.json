@@ -1,21 +1,21 @@
 {
-  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description (all four of these currently have none set). Setting them on GitHub too is worth doing - it helps anyone browsing your repo list.",
+  "_comment": "Featured repos for Anupam Pandey",
   "projects": [
     {
-      "repo": "dossier",
-      "description": "An immersive design-engineering portfolio. Fluid scroll inertia, geometric morphing, and typography that bends toward your cursor."
+      "repo": "KANAD-S.H.I.E.L.D._LAWSEARCHER_Dataminds",
+      "description": "AI Legal Intelligence Platform built for Ahmedabad Police Cyber Crime Branch hackathon with Supabase pgvector semantic search & Gemini RAG."
     },
     {
-      "repo": "Sage",
-      "description": "A local-first calendar that shapes your week around six productivity frameworks, with an assistant that plans according to the method you pick."
+      "repo": "linkedinautoconnecter1.0",
+      "description": "Client-side Chrome Extension using asynchronous JavaScript & Manifest V3 to automate targeted connection requests safely with local rate limiting."
     },
     {
-      "repo": "Socrates",
-      "description": "Learn by teaching. Explain a concept to the AI, get caught on the parts you only half-understand, and prove you actually know it."
+      "repo": "GOATS",
+      "description": "Smart Investment Strategy Platform built with Next.js 14, TypeScript, Prisma, and Recharts featuring dual User & Advisor portals."
     },
     {
-      "repo": "humanOS",
-      "description": "A gamified operating system for your life. Goals as interactive orbits, habit and mood tracking, and Gemini breaking objectives into daily tasks."
+      "repo": "Brain-Tumor-Detection",
+      "description": "Two-stage deep learning pipeline using YOLOv8 for MRI tumor detection and ResNet-18 for classification served via FastAPI."
     }
   ]
 }
