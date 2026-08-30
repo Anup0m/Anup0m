@@ -42,7 +42,7 @@ Hi, I'm **Anupam Pandey**. Third-year Computer Science Engineering student with 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,fastapi,flask,pytorch,postgres,supabase,docker,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,fastapi,flask,pytorch,postgres,supabase,prisma,tailwind,docker,aws,git,github,vscode,html,css&perline=10" alt="tech stack">
 
 </div>
 
